@@ -1,4 +1,5 @@
 body {
+    min-width: 350px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -25,4 +26,16 @@ section#jumbotron {
 section#jumbotron
 img {
     width: 60%;
+}
+
+section#jumbotron-card
+img {
+    border: 2px solid transparent;
+    padding: 0.15rem;
+    border-radius: 15px;
+}
+
+section#jumbotron-card
+img.my_border-blue {
+    border: 2px solid #2347c7;
 }
