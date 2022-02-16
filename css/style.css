@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-family:  Helvetica, sans-serif;
+}
+
+header
+img {
+    height: 25px;
+}
+
+header nav
+img {
+    height: 100%;
+}
