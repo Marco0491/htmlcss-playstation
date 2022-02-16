@@ -1,0 +1,16 @@
+@media screen and (max-width: 767px) {
+    section#ps-5
+    div.d-flex {
+        flex-wrap: wrap;
+    }
+    
+    div.ps-5-card {
+        width: calc(100% / 3);
+        padding: 1rem;
+    }
+
+    div.ps-5-card
+    h6 {
+        display: none;
+    }
+}

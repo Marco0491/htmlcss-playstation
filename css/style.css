@@ -3,6 +3,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.my_text-gray {
+    color: gray;
+}
+
+.my_border-bottom {
+    border-bottom: 2px solid #2d64e5;
+}
+
+a {
+    text-decoration: none;
+}
+
 header {
     font-family:  Helvetica, sans-serif;
 }
@@ -10,11 +22,6 @@ header {
 header
 img {
     height: 30px;
-}
-
-header nav
-img {
-    height: 100%;
 }
 
 section#jumbotron {
@@ -38,4 +45,15 @@ img {
 section#jumbotron-card
 img.my_border-blue {
     border: 2px solid #2347c7;
+}
+
+div.ps-5-card {
+    display: inline-block;
+    width: calc(100% / 5);
+    padding: 3rem;
+}
+
+i.fa-trademark {
+    font-size: 0.7rem;
+    vertical-align: text-top;
 }
