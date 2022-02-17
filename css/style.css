@@ -70,3 +70,7 @@ section#jumbotron-sec
 img {
     width: 60%;
 }
+
+section#new-releases {
+    background-color: #1f1f1f;
+}
