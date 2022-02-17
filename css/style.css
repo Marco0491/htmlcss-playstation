@@ -7,6 +7,10 @@ body {
     color: gray;
 }
 
+.my_text-blue {
+    color: #2958e6;
+}
+
 .my_border-bottom {
     border-bottom: 2px solid #2d64e5;
 }
@@ -73,4 +77,13 @@ img {
 
 section#new-releases {
     background-color: #1f1f1f;
+}
+
+section#ps-plus {
+    background-color: #bebcbb;
+}
+
+section#ps-plus
+img.my_ps-plus-logo {
+    width: 60%;
 }
