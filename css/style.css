@@ -90,3 +90,9 @@ img.my_ps-mini-logo {
 section#ps-now {
     background-color: #161c3b;
 }
+
+/* section#social-media
+div.social-media-icon {
+    width: calc(100% / 8);
+    padding: 1rem;
+} */
