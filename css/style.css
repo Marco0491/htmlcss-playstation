@@ -91,8 +91,16 @@ section#ps-now {
     background-color: #161c3b;
 }
 
-/* section#social-media
-div.social-media-icon {
-    width: calc(100% / 8);
-    padding: 1rem;
-} */
+footer {
+    background-color: #19439c;
+}
+
+footer
+img.my_img-globe {
+    width: 30px;
+}
+
+footer
+img.my_sony-logo {
+    width: 150px;
+}
