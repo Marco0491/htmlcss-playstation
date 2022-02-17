@@ -83,7 +83,10 @@ section#ps-plus {
     background-color: #bebcbb;
 }
 
-section#ps-plus
-img.my_ps-plus-logo {
+img.my_ps-mini-logo {
     width: 60%;
+}
+
+section#ps-now {
+    background-color: #161c3b;
 }
